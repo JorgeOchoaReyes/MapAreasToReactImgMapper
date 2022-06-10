@@ -1,9 +1,11 @@
-# Valorant Pings
-Valorant Pings
+# Map Area to React-img-mapper
+Map Area to React-img-mapper
 
-<img width="946" alt="map2" src="https://user-images.githubusercontent.com/60721681/172543991-c5180ad2-e33d-48ba-9b94-8ec6097817fa.png">
+Check out raect-img-mapper: https://www.npmjs.com/package/react-img-mapper <br />
+Check out this free image map generator: https://www.image-map.net/ <br />
 
-<img width="944" alt="map" src="https://user-images.githubusercontent.com/60721681/172544159-36829c60-f1e5-43ca-bef7-3c735df3252f.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/60721681/173001251-20c74818-6b3f-4b45-a761-8b871029c6f2.png">
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -15,7 +17,6 @@ Valorant Pings
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -29,8 +30,7 @@ Valorant Pings
 ## About The Project
 
 
-
-Valorant Pings is built for all players, new or experts, to have a way to study callouts for all of the valorant maps.  
+Using [image map generator](https://www.image-map.net/) can help speed the creation of area tags for images, but unfortunately [react-img-mapper](https://www.npmjs.com/package/react-img-mapper) accepts its data as array of objects. We convert the data from image map generator to data that can be read by react-img-mapper so that you can spend more time detailing your image area tags and less time converting the data manually!
 <br />
 
 
@@ -44,20 +44,8 @@ Valorant Pings is built for all players, new or experts, to have a way to study 
 * [Next.js](https://nextjs.org/)
 * [ChakraUI](https://chakra-ui.com/)
 * [Typescript](https://www.typescriptlang.org/)
-* [Graphql](https://graphql.org/)
-* [Apollo](https://www.apollographql.com/docs/apollo-server/)
-* [Urql](https://formidable.com/open-source/urql/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Create Full Example Map (Split)
-- [ ] Add boilerplate data to quickly add other maps 
-- [ ] Include Images with angles of each callout
-
 
 
 
