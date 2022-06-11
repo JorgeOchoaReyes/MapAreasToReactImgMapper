@@ -91,6 +91,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/jorgeochoareyes/Vlr_Callouts](https://github.com/JorgeOchoaReyes/Vlr_Callouts)
+Project Link: [https://github.com/JorgeOchoaReyes/MapAreasToReactImgMapper](https://github.com/JorgeOchoaReyes/MapAreasToReactImgMapper)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
