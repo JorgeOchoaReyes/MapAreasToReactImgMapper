@@ -51,6 +51,7 @@ Using [image map generator](https://www.image-map.net/) can help speed the creat
 ## Roadmap
 
 - [X] Add modal for copy & paste or download options
+- [ ] Input multiple sets of maps and generate new data for all 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
