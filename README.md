@@ -50,7 +50,7 @@ Using [image map generator](https://www.image-map.net/) can help speed the creat
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add modal for copy & paste or download options
+- [X] Add modal for copy & paste or download options
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
