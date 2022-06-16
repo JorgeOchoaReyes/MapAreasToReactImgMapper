@@ -17,7 +17,7 @@ export const getAreas = (input: string) => {
             continue;
         }
         let obj = {}; 
-        obj["id"] = Math.floor(Math.random() * 10000);
+        obj["id"] = `${Math.floor(Math.random() * 10000)}`;
         obj["fillColor"] = "#eab54d4d";
         obj["strokeColor"] = "black";
         let j = i; 
