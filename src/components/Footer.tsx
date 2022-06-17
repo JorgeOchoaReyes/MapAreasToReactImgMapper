@@ -33,7 +33,7 @@ import { textColor } from '../Util/constants'
           </Flex>
 
           <Flex align='center'>
-            <IconButton as="a" href="https://github.com/JorgeOchoaReyes/Vlr_Callouts" aria-label="GitHub" icon={<FaGithub fontSize="1.25rem" />} />
+            <IconButton as="a" href="https://github.com/JorgeOchoaReyes/MapAreasToReactImgMapper" aria-label="GitHub" icon={<FaGithub fontSize="1.25rem" />} />
           </Flex>
 
         </ButtonGroup>
